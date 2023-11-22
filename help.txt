@@ -1,0 +1,2 @@
+in test_dma.cpp
+uncomment everything in dma.S2MM
